@@ -28,7 +28,7 @@
       
         
         
-    <summary type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus scelerisque, nunc id vehicula tristique, enim erat suscipit ligula,</summary>
+    <summary type="html"></summary>
         
       
     
@@ -49,7 +49,7 @@
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html"></summary>
         
       
     
