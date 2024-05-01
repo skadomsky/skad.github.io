@@ -4,9 +4,9 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>skadomsky.com</title>
-    <link>http://skadomsky.com/</link>
+    <link>https://skadomsky.com/</link>
     
-    <atom:link href="http://skadomsky.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://skadomsky.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Sat, 27 Jan 2024 14:33:38 GMT</pubDate>
@@ -14,8 +14,8 @@
     
     <item>
       <title>Lorem Ipsum Test</title>
-      <link>http://skadomsky.com/2023/09/02/lorem-ipsum-test/</link>
-      <guid>http://skadomsky.com/2023/09/02/lorem-ipsum-test/</guid>
+      <link>https://skadomsky.com/2023/09/02/lorem-ipsum-test/</link>
+      <guid>https://skadomsky.com/2023/09/02/lorem-ipsum-test/</guid>
       <pubDate>Sat, 02 Sep 2023 09:42:59 GMT</pubDate>
       
         
@@ -33,14 +33,14 @@
       
       
       
-      <comments>http://skadomsky.com/2023/09/02/lorem-ipsum-test/#disqus_thread</comments>
+      <comments>https://skadomsky.com/2023/09/02/lorem-ipsum-test/#disqus_thread</comments>
       
     </item>
     
     <item>
       <title>Hello World</title>
-      <link>http://skadomsky.com/2023/08/29/hello-world/</link>
-      <guid>http://skadomsky.com/2023/08/29/hello-world/</guid>
+      <link>https://skadomsky.com/2023/08/29/hello-world/</link>
+      <guid>https://skadomsky.com/2023/08/29/hello-world/</guid>
       <pubDate>Tue, 29 Aug 2023 01:07:49 GMT</pubDate>
       
         
@@ -58,7 +58,7 @@
       
       
       
-      <comments>http://skadomsky.com/2023/08/29/hello-world/#disqus_thread</comments>
+      <comments>https://skadomsky.com/2023/08/29/hello-world/#disqus_thread</comments>
       
     </item>
     
