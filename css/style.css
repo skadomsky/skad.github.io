@@ -437,7 +437,7 @@ body td {
 @font-face {
   font-style: normal;
   font-family: NotoSerifSC;
-  src: local("NotoSerifSC"), url("../lib/Noto_Serif_SC/NotoSerifSC-Regular.otf") format("opentype");
+  src: local("NotoSerifSC"), url("../lib/Noto_Serif_SC/NotoSerifSC-SemiBold.otf") format("opentype");
 }
 *,
 *:before,
